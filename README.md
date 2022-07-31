@@ -8,6 +8,8 @@ Uses validation to ensure that user input provided is in the proper expected for
 
 Uses command line inputs to generate html page for a team profile. 
 
+Application is invoked by the following command: node index.js
+
 Application has four classes: Employee, Engineer, Intern, and Manager. 
 
     - Employee Parent Class has the following properties and methods:
