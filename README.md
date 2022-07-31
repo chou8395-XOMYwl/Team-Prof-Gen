@@ -51,6 +51,7 @@ Application has four classes: Employee, Engineer, Intern, and Manager.
         - getRole() // Overridden to return 'Intern'
 
     
+team profile generator.jpg
 
 ## User Story
 
@@ -97,9 +98,17 @@ WHEN I decide to finish building my team
 
 THEN I exit the application, and the HTML is generated
 
-## Video Walkthrough Link:
+## Video Walkthrough:
 
-https://drive.google.com/file/d/1kaarme1HywAktD4j4An-OEu2x8Ohz2lN/view
+Link: https://drive.google.com/file/d/1kaarme1HywAktD4j4An-OEu2x8Ohz2lN/view
+
+The walkthrough video shows all four tests passing from the command line.
+
+The walkthrough video demonstrates how a user would invoke the application from the command line.
+
+The walkthrough video demonstrates how a user would enter responses to all of the prompts in the application.
+
+The walkthrough video demonstrates a generated HTML file that matches the user input.
 
 ## Github Repo Link: 
 
