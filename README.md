@@ -1,8 +1,12 @@
 # Team Profile Generator
 
-Utlized jest to pass four tests for Employee, Engineer, Intern, and Manager. 
+Utlized jest to pass four unit tests for Employee, Engineer, Intern, and Manager. 
+
+Utilized inquirer package. 
 
 Uses validation to ensure that user input provided is in the proper expected format.
+
+Uses command line inputs to generate html page for a team profile. 
 
 Application has four classes: Employee, Engineer, Intern, and Manager. 
 
