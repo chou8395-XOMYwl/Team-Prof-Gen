@@ -50,8 +50,6 @@ Application has four classes: Employee, Engineer, Intern, and Manager.
 
         - getRole() // Overridden to return 'Intern'
 
-    
-team profile generator.jpg
 
 ## User Story
 
